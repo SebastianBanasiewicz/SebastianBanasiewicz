@@ -3,7 +3,7 @@
 ## Contact / About Me
 * Email: <a href="mailto:banasiewiczsebastian@gmail.com">banasiewiczsebastian@gmail.com</a>
 * LinkedIn: <a href="https://linkedin.com/in/sebastian-banasiewicz">/in/sebastian-banasiewicz</a>
-* CV (eng): <a href="#">In preparation</a>
+* CV (eng): <!-- <a href="#">In preparation</a> --> In preparation
 * CV (pl): <a href="https://megawrzuta.pl/download/4bdfe062b706255cb10aec8e023c8638.html">download</a>
 
 # Portfolio
