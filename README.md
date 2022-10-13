@@ -13,7 +13,7 @@
 </a>
 
 ## Main projects
-* ['Mountain Notes' - application and landing page](https://github.com/SebastianBanasiewicz/MountainNotes)
+* ['Mountain Notes' - application](https://github.com/SebastianBanasiewicz/MountainNotes)
 * ['Oddam w dobre ręce' - application](https://github.com/SebastianBanasiewicz/Charity)
 
 <!--
@@ -22,8 +22,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 'Oddam w dobre ręce'
-- 🌱 I’m currently learning 'Spring boot'
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning 'React + Redux'
+- 👯 I’m looking to collaborate on Junior Java Developer
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
