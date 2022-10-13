@@ -1,10 +1,12 @@
 ### Hi there 👋
+- 🔭 I’m currently working on 'Oddam w dobre ręce'
+- 🌱 I’m currently learning 'React + Redux'
 
 ## Contact / About Me
 * Email: <a href="mailto:banasiewiczsebastian@gmail.com">banasiewiczsebastian@gmail.com</a>
 * LinkedIn: <a href="https://linkedin.com/in/sebastian-banasiewicz">/in/sebastian-banasiewicz</a>
 * CV (eng): <!-- <a href="#">In preparation</a> --> In preparation
-* CV (pl): <a href="https://megawrzuta.pl/download/4bdfe062b706255cb10aec8e023c8638.html">download</a>
+* CV (pl): <a href="https://megawrzuta.pl/download/7228d73b9d545e32dbdf5a4fd0d6ae3a.html">download</a>
 
 # Portfolio
 
