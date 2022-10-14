@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on 'Oddam w dobre ręce'
 - 🌱 I’m currently learning 'React + Redux'
 
 ## Contact / About Me
